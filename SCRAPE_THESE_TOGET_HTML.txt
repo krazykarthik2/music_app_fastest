@@ -1,0 +1,38 @@
+🎬 Phase 1: Landing & Orientation
+start: https://api.builder.io/api/v1/file/assets/TEMP/3305acyolmqmpfkufh7
+
+start_after_drag: https://api.builder.io/api/v1/file/assets/TEMP/14thtihwyaxmpfkufhd
+
+🔍 Phase 2: Search & Audio Recognition
+search: https://api.builder.io/api/v1/file/assets/TEMP/ixbhhllv1impfkufh9
+
+search+_results: https://api.builder.io/api/v1/file/assets/TEMP/zgxs92qtouhmpfkufha
+
+hear: https://api.builder.io/api/v1/file/assets/TEMP/a5rb2xgxi09mpfkufhc
+
+hear_animation: https://api.builder.io/api/v1/file/assets/TEMP/r7xq1eqmc2mpfkufhg
+
+hear_results: https://api.builder.io/api/v1/file/assets/TEMP/3k1b3hnckdjmpfkufhe
+
+🎵 Phase 3: The Music Player & Info Vault
+loading_player: https://api.builder.io/api/v1/file/assets/TEMP/n2ih6rxvg6cmpfkufhh
+
+player: https://api.builder.io/api/v1/file/assets/TEMP/7l7gmcninlampfkufhj
+
+player_info_loading: https://api.builder.io/api/v1/file/assets/TEMP/nkauyknyy7cmpfkufhk
+
+player_info: https://api.builder.io/api/v1/file/assets/TEMP/gafyxkx7nqqmpfkufhm
+
+📂 Phase 4: Collection, Library & Navigation
+menu: https://api.builder.io/api/v1/file/assets/TEMP/1ietopkwb0fmpfkufhn
+
+download/cached songlist: https://api.builder.io/api/v1/file/assets/TEMP/qgwdpyea84qmpfkufho
+
+albums list: https://api.builder.io/api/v1/file/assets/TEMP/v58ytk0vivfmpfkufhp
+
+album showcase: https://api.builder.io/api/v1/file/assets/TEMP/nkeftophcxmpfkufhq
+
+🔐 Phase 5: Gatekeepers (Authentication)
+login: https://api.builder.io/api/v1/file/assets/TEMP/0l09ukyq41mpfkufhs
+
+signup: https://api.builder.io/api/v1/file/assets/TEMP/4y66h6nijtmpfkufht
